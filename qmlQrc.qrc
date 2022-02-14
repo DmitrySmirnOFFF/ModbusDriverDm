@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/MainWindow.qml</file>
+        <file>qml/ModbusDriverSetup.qml</file>
+        <file>qml/MbRtu_gCurrents.qml</file>
+        <file>qml/MbRtu_gFC400.qml</file>
+        <file>img/pch400.svg</file>
+        <file>img/grey.svg</file>
+        <file>qml/Lamp.qml</file>
+        <file>qml/T2.qml</file>
+        <file>qml/Rcontrol.qml</file>
+        <file>qml/T1.qml</file>
+        <file>qml/BButbase.qml</file>
+        <file>qml/BButtogl.qml</file>
+    </qresource>
+</RCC>

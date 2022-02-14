@@ -1,0 +1,17 @@
+release/BaseObject.o
+release/EventList.o
+release/ModbusClient.o
+release/ModbusDriverQml.o
+release/ModbusMaster.o
+release/ModbusRequest.o
+release/ModbusTag.o
+release/ModbusTagGroup.o
+release/main.o
+release/qrc_qmlQrc.o
+release/moc_BaseObject.o
+release/moc_EventList.o
+release/moc_ModbusClient.o
+release/moc_ModbusMaster.o
+release/moc_ModbusRequest.o
+release/moc_ModbusTag.o
+release/moc_ModbusTagGroup.o

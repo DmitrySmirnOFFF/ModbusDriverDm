@@ -1,0 +1,17 @@
+debug/BaseObject.o
+debug/EventList.o
+debug/ModbusClient.o
+debug/ModbusDriverQml.o
+debug/ModbusMaster.o
+debug/ModbusRequest.o
+debug/ModbusTag.o
+debug/ModbusTagGroup.o
+debug/main.o
+debug/qrc_qmlQrc.o
+debug/moc_BaseObject.o
+debug/moc_EventList.o
+debug/moc_ModbusClient.o
+debug/moc_ModbusMaster.o
+debug/moc_ModbusRequest.o
+debug/moc_ModbusTag.o
+debug/moc_ModbusTagGroup.o

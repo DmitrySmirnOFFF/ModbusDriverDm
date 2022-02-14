@@ -1,0 +1,41 @@
+import QtQuick 2.12
+import QtQml 2.12
+import QtQuick.Window 2.12
+
+//import ModbusDriver 1.0 as Drv
+
+Window {
+    title: "Modbus Driver qml test"
+    height: 480
+    width: 640
+    visible: true
+
+    Rectangle{
+        width: 50
+        height: 50
+    color: "green"
+    }
+
+
+//    Drv.ModbusMaster{
+//        id:mbMaster
+//        objectName: "Modbus Master 1"
+//        /* уже имеются настройки по умолчанию ModbusMaster.cpp*/
+//        port: "COM7"
+
+//        property Drv.ModbusRequest req1: Drv.ModbusRequest{
+//        reg: 0
+//        quantity: 10
+//        }
+
+//        Component.onCompleted: {
+//            start();
+//        }
+//    }
+}
+
+/*##^##
+Designer {
+    D{i:0;formeditorZoom:0.9;height:480;width:640}D{i:1}D{i:2}
+}
+##^##*/
